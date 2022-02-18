@@ -1,6 +1,7 @@
 @value makerGrey from './common/colors.css';
 * {
   box-sizing: border-box;
+  margin: 0;
 }
 .app {
   width: 100%;
