@@ -1,0 +1,13 @@
+@value makerGreen from "../../common/colors.css";
+
+.preview {
+  flex-basis: 50%;
+  background-color: cadetblue;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+  margin: 1em;
+  color: makerGreen;
+}
